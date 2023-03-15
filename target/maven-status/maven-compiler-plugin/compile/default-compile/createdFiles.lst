@@ -1,0 +1,11 @@
+org/societegenerale/repository/WordsRepository.class
+org/societegenerale/model/DataFile.class
+org/societegenerale/exception/InvalidInputException.class
+org/societegenerale/exception/DataFileException.class
+org/societegenerale/validator/WordTransformerValidatorImpl.class
+org/societegenerale/constants/ErrorMessage.class
+org/societegenerale/Application.class
+org/societegenerale/validator/WordTransformerValidator.class
+org/societegenerale/service/WordTransformerService.class
+org/societegenerale/repository/WordsRepositoryImpl.class
+org/societegenerale/service/WordTransformerServiceImpl.class

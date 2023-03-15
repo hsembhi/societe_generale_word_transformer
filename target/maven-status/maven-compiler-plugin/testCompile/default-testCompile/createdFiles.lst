@@ -1,0 +1,4 @@
+org/societegenerale/service/WordTransformerServiceImplTest.class
+org/societegenerale/validator/WordTransformerValidatorImplTest.class
+org/societegenerale/ApplicationTest.class
+org/societegenerale/repository/WordsRepositoryImplTest.class

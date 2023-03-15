@@ -1,0 +1,11 @@
+/Users/hsembhi/Workspace/Interviews/societe_generale_word_transformer/src/main/java/org/societegenerale/Application.java
+/Users/hsembhi/Workspace/Interviews/societe_generale_word_transformer/src/main/java/org/societegenerale/repository/WordsRepository.java
+/Users/hsembhi/Workspace/Interviews/societe_generale_word_transformer/src/main/java/org/societegenerale/repository/WordsRepositoryImpl.java
+/Users/hsembhi/Workspace/Interviews/societe_generale_word_transformer/src/main/java/org/societegenerale/validator/WordTransformerValidatorImpl.java
+/Users/hsembhi/Workspace/Interviews/societe_generale_word_transformer/src/main/java/org/societegenerale/validator/WordTransformerValidator.java
+/Users/hsembhi/Workspace/Interviews/societe_generale_word_transformer/src/main/java/org/societegenerale/model/DataFile.java
+/Users/hsembhi/Workspace/Interviews/societe_generale_word_transformer/src/main/java/org/societegenerale/service/WordTransformerService.java
+/Users/hsembhi/Workspace/Interviews/societe_generale_word_transformer/src/main/java/org/societegenerale/exception/InvalidInputException.java
+/Users/hsembhi/Workspace/Interviews/societe_generale_word_transformer/src/main/java/org/societegenerale/constants/ErrorMessage.java
+/Users/hsembhi/Workspace/Interviews/societe_generale_word_transformer/src/main/java/org/societegenerale/service/WordTransformerServiceImpl.java
+/Users/hsembhi/Workspace/Interviews/societe_generale_word_transformer/src/main/java/org/societegenerale/exception/DataFileException.java
